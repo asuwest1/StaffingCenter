@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=PCCHH3184\SQLEXPRESS2016; User=terminal2; Pwd=terminal2; Database=LabTrackLite" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
