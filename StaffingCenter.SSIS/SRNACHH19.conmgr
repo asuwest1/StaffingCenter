@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SRNACHH19"
+  DTS:DTSID="{296034D4-85C7-417C-8B4C-7D7987A2CD83}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SRNACHH19\MSSQL;Initial Catalog=StaffingCenterSENGS;Integrated Security=True;Application Name=SSIS-StaffingCenter.SSIS-{296034D4-85C7-417C-8B4C-7D7987A2CD83}SRNACHH19;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,45 @@
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\SharedClasses.deps.json
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.json
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.dev.json
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\bin\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.AssemblyReference.cache
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfoInputs.cache
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfo.cs
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.CoreCompileInputs.cache
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\source\repos\CoreTemplate\TemplateBlazorMono\LabTrackLite\SharedClasses\obj\Release\net5.0\SharedClasses.genruntimeconfig.cache
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.deps.json
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.json
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.dev.json
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.AssemblyReference.cache
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfoInputs.cache
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfo.cs
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.CoreCompileInputs.cache
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\Documents\Repos\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.genruntimeconfig.cache
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.deps.json
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.json
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.runtimeconfig.dev.json
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\bin\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.AssemblyReference.cache
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfoInputs.cache
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.AssemblyInfo.cs
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.csproj.CoreCompileInputs.cache
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.dll
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\ref\SharedClasses.dll
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.pdb
+C:\Users\L053698\Documents\Repos SourceTree\StaffingCenter\StaffingCenter\SharedClasses\obj\Release\net5.0\SharedClasses.genruntimeconfig.cache
